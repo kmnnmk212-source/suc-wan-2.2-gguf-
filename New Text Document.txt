@@ -1,0 +1,13 @@
+
+
+
+
+
+
+
+
+/content/ComfyUI/models/audio_encoders/model.safetensors
+
+/content/ComfyUI/models/text_encoders/umt5-xxl-encoder-Q3_K_S.gguf
+/content/ComfyUI/models/unet/Wan2.2-S2V-14B-Q2_K.gguf
+/content/ComfyUI/models/vae/wan_2.1_vae.safetensors
